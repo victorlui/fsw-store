@@ -2,7 +2,6 @@ import {
   HomeIcon,
   LogInIcon,
   MenuIcon,
-  PercentCircleIcon,
   PercentIcon,
   ShoppingCartIcon,
 } from "lucide-react";
